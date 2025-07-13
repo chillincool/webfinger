@@ -1,7 +1,7 @@
 {
     "links": [
         {
-            "href": "https://authentik.company/application/o/tailscale/",
+            "href": "https://authentik.chillincool.net/application/o/tailscale/",
             "rel": "http://openid.net/specs/connect/1.0/issuer"
         }
     ],
